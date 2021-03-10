@@ -1,8 +1,5 @@
----
-tags: JavaScript
----
-
 # for 迴圈 沒有用 let 或 var 宣告變數
+###### tags: `JavaScript`
 
 ## 前言
 * 常看到 for 迴圈，沒有用 let 或 var 宣告變數，可以使用，所以研究一下這三種情況有甚麼差別?
@@ -50,7 +47,7 @@ delete b; // ture
 ```
 
 ## 心得
-![](https://i.imgur.com/5T0Z2eW.png =300x)
+![](https://i.imgur.com/5T0Z2eW.png)
 
 
 ## reference
