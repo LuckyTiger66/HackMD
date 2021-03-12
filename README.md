@@ -7,5 +7,6 @@
 ### Visual Studio Code
 * [Prettier 程式碼格式統一](https://github.com/LuckyTiger66/HackMD/blob/main/pretter101.md)
 
-### 同步 HackMD 筆記，
-* [如何與 GitHub 同步筆記](https://hackmd.io/c/tutorials-tw/%2Fs%2Flink-with-github-tw)
+### 如何做系列
+* [如何 HackMD 筆記與 GitHub 同步筆記](https://hackmd.io/c/tutorials-tw/%2Fs%2Flink-with-github-tw)
+* [如何協作 github 開源專案](https://github.com/LuckyTiger66/HackMD/blob/main/ContributeOpenSource.md)
