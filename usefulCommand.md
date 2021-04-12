@@ -53,6 +53,4 @@
 個人最喜歡禪模式了，如果能搭配直立式螢幕就更棒了!
 
 
-<div style="display:none">![](https://i.imgur.com/eCorDoH.png)
-</div>
 
