@@ -1,8 +1,6 @@
 # addEventListener() buble & capture 冒泡與捕獲
 ###### tags: `JavaScript`
 
-![](https://i.imgur.com/sL9QhWW.jpg)
-@karine_photo_64
 ## 前言
 使用 addEventListener()，有時候發現執行了兩次或不是想要的效果，到底是出了甚麼問題?
 有可能就是 event 冒泡或捕獲產生的問題。
