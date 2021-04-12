@@ -2,8 +2,8 @@
 
 ## 筆記目錄
 ### JavaScript
-* [for 迴圈 沒有用 let 或 var 宣告變數](https://github.com/LuckyTiger66/HackMD/blob/main/for_let_var.md)
 * [addEventListener() buble & capture 冒泡與捕獲](https://github.com/LuckyTiger66/HackMD/blob/main/addEventListener_buble_capturer.md)
+* [for 迴圈 沒有用 let 或 var 宣告變數](https://github.com/LuckyTiger66/HackMD/blob/main/for_let_var.md)
 
 ### Visual Studio Code
 * [Prettier 程式碼格式統一](https://github.com/LuckyTiger66/HackMD/blob/main/pretter101.md)
