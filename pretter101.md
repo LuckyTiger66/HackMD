@@ -1,4 +1,7 @@
 # Prettier 程式碼格式統一
+
+[![hackmd-github-sync-badge](https://hackmd.io/kbB8yNVOQEC_iL7MKO_3CQ/badge)](https://hackmd.io/kbB8yNVOQEC_iL7MKO_3CQ)
+
 ###### tags: `Visual Studio Code`
 
 ## 為什麼要使用 
