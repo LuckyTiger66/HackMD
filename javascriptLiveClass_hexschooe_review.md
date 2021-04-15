@@ -15,8 +15,10 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 ### 1. 有效率能解決問題
 * 跟大家一起在直播間，針對課程內容及時發問與交流
 <img src="https://i.imgur.com/tLXPSHO.png" width="600">
+
 * 每日助教群可以讓你發問，檢視你寫的程式碼
 <img src="https://i.imgur.com/fvkLhwF.png" width="600">
+
 * 每周助教針對學員卡關加碼直播  
 <img src="https://i.imgur.com/M3MFfxl.png" width="600">
 
@@ -26,6 +28,7 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 
 * 還有獎品與獎勵
 <img src="https://i.imgur.com/yipliYI.png" width="600">
+
 * 最後第九週加碼彩蛋，一張圖千言萬語
 <img src="https://i.imgur.com/M071Lob.png" width="600">  
 
