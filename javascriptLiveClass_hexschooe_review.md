@@ -46,16 +46,16 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 ![](https://i.imgur.com/bztSFAI.png)
 
 ### 超
-* 程式開發的一個關鍵點就是疊代，持續改善，或增加新功能，例如這個每日任務，是搜尋產品標題，自己增加了描述的搜尋功能，跟找不到的提示頁面，完成後成就感十足
-<iframe height="265" style="width: 100%;" scrolling="no" title="JS 養成直播班 4/14 (三) 每日任務模板" src="https://codepen.io/LuckyTiger/embed/eYgrNzx?height=265&theme-id=dark&default-tab=js,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
-  See the Pen <a href='https://codepen.io/LuckyTiger/pen/eYgrNzx'>JS 養成直播班 4/14 (三) 每日任務模板</a> by SeanLiu
-  (<a href='https://codepen.io/LuckyTiger'>@LuckyTiger</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+* 程式開發的一個關鍵點就是疊代，持續改善，或增加新功能，例如這個每日任務，是搜尋產品標題，自己增加了描述的搜尋功能，跟找不到的提示頁面，完成後成就感十足  
+   * https://codepen.io/LuckyTiger/pen/eYgrNzx
+![](https://i.imgur.com/o3vIlw0.png)
+
 
 ## 結語
 感謝六角學院的老師跟助教，還有謝謝各位優秀的同學，最後給我自己一個讚，做了加入直播班的決定
 ，讓自己能每天進步一點點，堅持才能看到希望  
-![](https://i.imgur.com/JQc0rse.png =300x)
-![](https://i.imgur.com/hufSxYb.png =400x)
+<img src="https://i.imgur.com/JQc0rse.png" alt="alt text" width="300" >
+<img src="https://i.imgur.com/hufSxYb.png" alt="alt text" width="400" >
+
 
 
