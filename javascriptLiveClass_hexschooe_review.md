@@ -31,7 +31,8 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 
 ### 3. 找到夥伴組隊
 * 課程有分組，每周也有小組任務，跟同學一起討論解任務
-<img src="https://i.imgur.com/p3aTVvg.png" width="600">  
+<img src="https://i.imgur.com/p3aTVvg.png" width="600"> 
+
 * 隊員有全職學習的，有設計專業的，有已三年以上程式工作經驗，有剛大學畢業進入職場等，感謝 22 組的各位夥伴，多次 Discord 語音討論，一起碰撞產生的對程式的熱情火花!
 
 ## 前端無捷徑三個字心得
