@@ -41,10 +41,11 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 
 ### 操
 * 第四周的期中魔王關，就是寫 BMI KATA 程式，重構程式碼，且多次刻意練習，將完成的時間縮短
-<img src="https://i.imgur.com/BU1uJxY.png" width="600">  
+<img src="https://i.imgur.com/BU1uJxY.png" width="600">    
+
 * 會設計的 Jordan 提供了 UI 設計稿，下方心得有連結
-    * [六角學院 - JS 課程完課心得 -Jordan Tseng](https://jordanttcdesign.medium.com/%E5%85%AD%E8%A7%92%E5%AD%B8%E9%99%A2-js-%E8%AA%B2%E7%A8%8B%E5%AE%8C%E8%AA%B2%E5%BF%83%E5%BE%97-b6dc4e5a4654)
-<img src="https://i.imgur.com/bztSFAI.png" width="600"> 
+   * [六角學院 - JS 課程完課心得 -Jordan Tseng](https://jordanttcdesign.medium.com/%E5%85%AD%E8%A7%92%E5%AD%B8%E9%99%A2-js-%E8%AA%B2%E7%A8%8B%E5%AE%8C%E8%AA%B2%E5%BF%83%E5%BE%97-b6dc4e5a4654)  
+   <img src="https://i.imgur.com/bztSFAI.png" width="600"> 
 
 ### 超
 * 程式開發的一個關鍵點就是疊代，持續改善，或增加新功能，例如這個每日任務，是搜尋產品標題，自己增加了描述的搜尋功能，跟找不到的提示頁面，完成後成就感十足  
