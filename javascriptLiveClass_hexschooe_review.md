@@ -25,7 +25,7 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 ![](https://i.imgur.com/pdM4CkB.png)
 * 還有獎品與獎勵
 ![](https://i.imgur.com/yipliYI.png)
-* 最後第九週加碼彩蛋，一張圖千言萬語
+* 最後第九週加碼彩蛋，一張圖千言萬語  
 ![](https://i.imgur.com/M071Lob.png)
 
 ### 3. 找到夥伴組隊
