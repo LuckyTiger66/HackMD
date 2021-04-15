@@ -7,9 +7,9 @@ From unsplash
 
 ## 前言
 我是 SeanLiu ，之前有用過 WordPress 架站，才認識了前端三大基礎
-HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較難掌握的。
+HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較難掌握的
 
-網路上資料、免費課程也很多，但始終抓不到重點，越學越滿頭問號，都 2021 年了，該學 jQuery 嗎，還是直接學框架(vue,angular,react)?，怎樣才算會 JavaScript ? 
+網路上資料、免費課程也很多，但始終抓不到重點，越學越滿頭問號，都 2021 年了，該學 jQuery 嗎?還是直接學框架 (vue,angular,react) ?怎樣才算會 JavaScript ? 
 
 ## 直播班值得推薦三大理由
 ### 1. 有效率能解決問題
