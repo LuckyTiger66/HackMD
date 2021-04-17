@@ -1,5 +1,5 @@
 ---
-tags: JS 工程師養成直播
+tags: JS 工程師養成直播班
 ---
 # 六角學院 - JavaScript 直播班完課分享
 <img src="https://i.imgur.com/ierfzQC.jpg" width="600">
