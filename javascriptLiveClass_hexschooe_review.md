@@ -58,7 +58,9 @@ HTML、CSS、JavaScript，其中 JavaScript 程式語言在網頁開發是比較
 
 
 ## 結語
-感謝六角學院的老師跟助教，還有謝謝各位優秀的同學，最後給我自己一個讚，做了加入直播班的決定
+感謝六角學院的老師跟助教，還有謝謝各位優秀的同學，最後給我自己一個讚，做了加入直播班的決定  
+針對前言的疑問，我簡短的答案是:  
+學好基礎 JavaScript ，命名、函式、陣列物件、串接 API、資料整理等，再用套件或框架加速開發  
 <img src="https://i.imgur.com/JQc0rse.png" alt="alt text" width="300" >
 <img src="https://i.imgur.com/hufSxYb.png" alt="alt text" width="400" >
 
